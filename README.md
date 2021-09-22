@@ -1,10 +1,22 @@
 # Isobel Peppiatt
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+![](https://github-readme-stats.vercel.app/api?username=isobelpepp&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isobelpepp&layout=compact&theme=buefy)
 
-I started my coding journey in September 2020 after turning my hand to a few different jobs and much deliberation post-university about what career path I wanted to follow. I started by learning JavaScript followed by Ruby and was delighted to find out it ticked all of the boxes. I relish in the problem-solving, the chance to be creative, the collaborative nature of coding and the opportunity to constantly be learning and growing. Having studied Philosophy at university I am well suited to detail oriented work and lateral thinking. In both coding and Philosophy you have to break something down to the smallest part to see if it holds up under scrutiny or if there are other routes that are better to take. Both disciplines get to the root of a bigger picture - the way the world works for Philosophy and the way technology works for coding!
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-I have just started a four month intensive coding bootcamp (Makers Academy) where I will go from an amateur coder to a confident full-stack junior developer. I am looking to take on a career in Bristol in an environment that constantly challenges me and expands my knowledge of software development. 
+I started my coding journey in September 2020 after turning my hand to a few different jobs and much deliberation post-university about what career path I wanted to follow. I have just completed a four month intensive coding bootcamp (Makers Academy) and I am looking to take on a career in software development that constantly challenges me and expands my knowledge of software development.
+
+## Projects
+
+| Title    | Description | Technologies used | Timeframe |
+|----------|-------------|-------------------|-----------|
+|[Key-J](https://github.com/isobelpepp/key-j)| Key-J is an app to help DJs, musicians and music enthusiasts access a song's key information, such as danceability, energy, mood, tempo, time signature and, of course, key.| REACT, Node.js, Express, HTML, CSS, Jest | 2 weeks|
+|[Acebook](https://github.com/isobelpepp/acebook-danger-noodles)| A social media platform modelled on Facebook, where users have their own personal profiles and can upload, like and comment on posts. | Ruby on Rails, PostgreSQL, Active Record, Amazon S3, Heroku | 2 weeks |
+|[Instagram Clone](https://github.com/isobelpepp/instagram_clone) | A social media platform to share photos, base on Instagram. | Ruby on Rails, PostgreSQL, Rspec-rails, FactoryBot | 2 days |
+|[Bank Tech Test](https://github.com/isobelpepp/bank-tech-test) | A practice tech test to build a banking application with focus on process and TDD | Ruby, Rubocop, Rspec, Simplecov | 3 days |
+|[Notes App](https://github.com/isobelpepp/js-notes-app) | A single pag app that a user can add notes to. | Vanilla JavaScript, HTML, CSS, built our own testing framework | 1 week |
+|[Chitter](https://github.com/isobelpepp/chitter-challenge)| A social media platform where users can sign up and create 'peeps'. Users can view other people's peeps on the homepage in reverse chronological order. | Ruby, PostgreSQL, Rspec, Capybara, Sinatra, SimpleCov, HTML | 2 days |
 
 ## Skills
 
@@ -22,7 +34,11 @@ It is hard to have effective teamwork without compassion, which is something I a
 
 **Commitment**
 
-I started by teaching myself to code and have recently started a 4 month coding bootcamp. Both of these have required independent learning which demands discipline, drive and focus. 
+The four months I studied at Makers Academy was very focused on independent learning which demanded discipline, drive and focus. It was a real commitment to make and is an example of when I put my mind to something I really give it my all.
+
+**Creativity**
+
+I have found that coding often requires lateral thinking and an ability to be creative in your solutions. This was a skill I honed while studying Philosphy - as a discipline it made one boil down arguments to the smallest part and think of any way that it could break under scrutiny. I have found this has been very useful when it comes to software development in that you have to break down projects into the most simple elements in order to build the bigger picture.
 
 
 ## Education
@@ -36,7 +52,6 @@ I started by teaching myself to code and have recently started a 4 month coding 
     - Pair Programming
     - Object-oriented programming
     - Independent learning
-
 
 
 **Durham University (Sept ’19 - July ’19)**
@@ -75,12 +90,7 @@ I was responsible for co-ordinating and overseeing the security and safeguarding
 
 **Yoga**
 
-By November ’21 I will have completed my yoga teacher qualification.
-- I am undertaking this qualification in order to further develop my understanding of this practice and to improve my own practice as it is something that has always been very important to me.
-
 **Embroidery/Flipping clothes**
-
-One of my favourite past times is to go charity shopping and find clothes that can be cut/sewn/embroided into something else (perhaps a bit more fashionable). 
 
 **Painting**
 
