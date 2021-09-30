@@ -1,8 +1,5 @@
 # Isobel Peppiatt
 
-![](https://github-readme-stats.vercel.app/api?username=isobelpepp&count_private=true&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isobelpepp&layout=compact&theme=buefy)
-
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 I started my coding journey in September 2020 after turning my hand to a few different jobs and much deliberation post-university about what career path I wanted to follow. I have just completed a four month intensive coding bootcamp (Makers Academy) and I am looking to take on a career in software development that constantly challenges me and expands my knowledge of software development.
