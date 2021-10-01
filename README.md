@@ -101,3 +101,5 @@ I was responsible for co-ordinating and overseeing the security and safeguarding
 GitHub: [isobelpepp](https://github.com/isobelpepp)
 
 Codewars: [isobelpep](https://www.codewars.com/users/isobelpep)
+
+LinkedIn: [Isobel Peppiatt](https://www.linkedin.com/in/isobel-peppiatt-952634221/)
