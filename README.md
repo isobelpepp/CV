@@ -27,7 +27,7 @@ I appreciate the importance of cohesive teamwork in order to effectively achieve
 
 **Compassion**
 
-It is hard to have effective teamwork without compassion, which is something I aim to bring to every workplace I am in. Along with other volunteers I developed a safer-spaces policy that we went through with every new volunteer. This encouraged people to leave preconceptions and to study internal biases that we all have. In turn this resulted in a supportive and welcoming environment with everyone being able to work to best of their ability. This skill translated well into group projects and fostered a positive environment for the team to work in which inevitably led to more efficient, successful work towards a product.
+It is hard to have effective teamwork without compassion, which is something I aim to bring to every workplace I am in. Along with other volunteers I developed a safer-spaces policy that we went through with every new volunteer. This encouraged people to leave preconceptions at the door and to study internal biases that we all have. In turn this resulted in a supportive and welcoming environment with everyone being able to work to best of their ability. This skill translated well into group projects and fostered a positive environment for the team to work in which inevitably led to more efficient, successful work towards a product.
 
 **Commitment**
 
@@ -35,7 +35,7 @@ I have played sport from a young age, at county and regional level which require
 
 **Creativity**
 
-I have found that coding often requires lateral thinking and an ability to be creative in your solutions. This was a skill I honed while studying Philosphy - as a discipline it made one boil down arguments to the smallest part and think of any way that it could break under scrutiny. I have found this has been very useful when it comes to software development in that you have to break down projects into the most simple elements in order to build the bigger picture.
+I have found that coding often requires lateral thinking and an ability to be creative in your solutions. This was a skill I honed while studying Philosophy - as a discipline it made one boil down arguments to the smallest part and think of any way that it could break under scrutiny. I have found this has been very useful when it comes to software development in that you have to break down projects into the most simple elements in order to build the bigger picture.
 
 
 ## Education
