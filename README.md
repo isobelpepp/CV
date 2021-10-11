@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-I started my coding journey in September 2020 after turning my hand to a few different jobs and much deliberation post-university about what career path I wanted to follow. I found that I really enjoyed the problem-solving nature of it, the opportunity for growth and learning and the chance for collaboration. I have recently completed Makers Academy, a four month intensive coding bootcamp and I am looking to take on a career in software development that constantly challenges me and provides an environment to carry on expanding my knowledge of software development. 
+I started my coding journey in September 2020 after turning my hand to a few different jobs and much deliberation post-university about what career path I wanted to follow. I found that I really enjoyed the problem-solving nature of it, the opportunity for growth and learning and the chance for collaboration. I have recently completed Makers Academy, a four month intensive coding bootcamp. I am currently looking for a junior developer role in Bristol in an environment that constantly challenges me and enables me to carry on expanding my knowledge of software development.
 
 ## Projects
 
