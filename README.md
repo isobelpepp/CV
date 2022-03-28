@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-I started my coding journey in September 2020 after turning my hand to a few different jobs and much deliberation post-university about what career path I wanted to follow. I found that I really enjoyed the problem-solving nature of it, the opportunity for growth and learning and the chance for collaboration. I completed Makers Academy in September 2021, a four month intensive coding bootcamp. I am currently working as a junior software developer on a college database management system using Vue.js, Express, Node.js and MongoDB.
+I started my coding journey in September 2020 after turning my hand to a few different jobs and much deliberation post-university about what career path I wanted to follow. I found that I really enjoyed the problem-solving nature of it, the opportunity for growth and learning and the chance for collaboration. I completed Makers Academy in September 2021, a four month intensive coding bootcamp. I am currently working as a junior software developer on a [college database management system](https://wtc-consulting.co.uk/cdms) using Vue.js, Express, Node.js and MongoDB.
 
 ## Projects
 
